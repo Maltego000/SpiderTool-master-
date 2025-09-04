@@ -1,0 +1,108 @@
+MIT License
+
+Copyright (c) 2025 Spider OSINT Development Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+--- Additional Terms and Responsible Use
+
+--- Purpose and Intent
+Spider OSINT Tool was created by security researchers and educators to advance 
+the field of open-source intelligence gathering and cybersecurity education. 
+We believe in empowering ethical hackers, security professionals, and 
+researchers with robust tools while promoting responsible disclosure and 
+ethical practices.
+
+--- Acceptable Use
+This software is designed and intended for:
+
+--- Educational and Research Purposes
+- Learning cybersecurity concepts and OSINT methodologies
+- Academic research in information security
+- Security training and certification programs
+- Understanding network reconnaissance techniques
+
+--- Professional Security Testing
+- Authorized penetration testing of your own systems
+- Security assessments with explicit written permission
+- Bug bounty programs where tool usage is permitted
+- Corporate security audits and compliance testing
+
+--- Personal Infrastructure Analysis
+- Analyzing domains and IP addresses you own
+- Monitoring your own network security posture
+- Understanding your digital footprint
+- Personal cybersecurity awareness
+
+--- Prohibited Use
+The following activities are strictly prohibited:
+
+**❌ Unauthorized Activities**
+- Scanning or analyzing systems without explicit permission
+- Attempting to breach security of third-party systems
+- Violating terms of service of web platforms
+- Any form of malicious reconnaissance or stalking
+
+**❌ Illegal Activities**
+- Activities that violate local, state, or federal laws
+- Privacy violations or unauthorized data collection
+- Corporate espionage or competitive intelligence gathering
+- Any use that could harm individuals or organizations
+
+### Developer's Note
+As developers, we've put considerable effort into creating a tool that's both 
+powerful and responsible. We've implemented rate limiting, focused on publicly 
+available information, and designed the tool with ethical use in mind. 
+
+However, with great power comes great responsibility. The capabilities provided 
+by this tool can be misused, and we rely on the integrity of our users to 
+ensure it's used for legitimate purposes only.
+
+--- Legal Compliance
+Users must ensure their use of this software complies with:
+- All applicable local and international laws
+- Terms of service of target systems and third-party APIs
+- Professional codes of conduct and ethics
+- Organizational policies and procedures
+
+--- Reporting Issues
+If you discover security vulnerabilities in this tool or wish to report 
+misuse, please reach out through appropriate channels. We believe in 
+responsible disclosure and continuous improvement of security practices.
+
+--- Community Standards
+By using this software, you become part of a community that values:
+- Ethical hacking and responsible security research
+- Knowledge sharing and collaborative learning
+- Respect for privacy and digital rights
+- Professional development in cybersecurity
+
+We encourage users to contribute back to the community through bug reports, 
+feature suggestions, educational content, and ethical security research.
+
+---
+
+-- Remember: The best hackers are those who use their skills to make the 
+digital world safer for everyone.**
+
+*This license reflects our commitment to fostering a responsible cybersecurity 
+community while providing powerful tools for legitimate security research and 
+education.*
